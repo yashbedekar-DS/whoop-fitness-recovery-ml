@@ -1,0 +1,5 @@
+Metric,Value
+Model,Linear Regression
+Holdout MAE,10.539974718288423
+Holdout RMSE,13.175492146126922
+Holdout R2,0.44204013309116774

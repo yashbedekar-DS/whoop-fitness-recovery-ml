@@ -1,0 +1,8 @@
+Model,Model_Type,MAE,RMSE,R2,Rank_by_R2,Rank_by_MAE,Best_Model,XGBoost_Hypothesis_Result
+Linear Regression,Simple/regularized baseline,10.54,13.175,0.442,1,1,Yes,Not supported; Linear Regression achieved the best R2 performance.
+Ridge Regression,Simple/regularized baseline,10.748,13.426,0.421,2,2,No,Not supported; Linear Regression achieved the best R2 performance.
+Elastic Net,Simple/regularized baseline,11.085,13.803,0.388,4,3,No,Not supported; Linear Regression achieved the best R2 performance.
+Decision Tree,Simple/regularized baseline,12.602,15.762,0.201,7,7,No,Not supported; Linear Regression achieved the best R2 performance.
+Random Forest,Ensemble,11.307,14.066,0.364,5,5,No,Not supported; Linear Regression achieved the best R2 performance.
+Gradient Boosting,Ensemble,11.374,14.102,0.361,6,6,No,Not supported; Linear Regression achieved the best R2 performance.
+XGBoost,Ensemble,11.087,13.782,0.39,3,4,No,Not supported; Linear Regression achieved the best R2 performance.
