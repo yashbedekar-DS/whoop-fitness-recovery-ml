@@ -1,9 +1,0 @@
-Model,Average_Rank,Rank_Range
-Linear Regression,1.0,0
-Ridge Regression,2.0,0
-Elastic Net,3.0,0
-XGBoost,4.0,0
-Gradient Boosting,5.0,0
-Random Forest,6.0,0
-Decision Tree,7.0,0
-Baseline Mean,8.0,0

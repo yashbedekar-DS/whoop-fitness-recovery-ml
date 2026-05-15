@@ -1,4 +1,0 @@
-Model,MAE,RMSE,R2,Expected_R2_Range,Matches_Expected_Range,Interpretation
-Linear Regression,10.54,13.175,0.442,0.45-0.75,No,Below expected range.
-Decision Tree,12.754,15.907,0.187,0.45-0.75,No,Below expected range.
-k-NN,13.043,16.093,0.168,0.45-0.75,No,Below expected range.
