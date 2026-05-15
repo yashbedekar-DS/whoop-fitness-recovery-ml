@@ -1,0 +1,2 @@
+Best_Simple_Model,Best_Simple_R2,Best_Ensemble_Model,Best_Ensemble_R2,R2_Gain,MAE_Reduction
+Linear Regression,0.44204013309116774,XGBoost,0.38952797654909876,-0.05251215654206898,-0.5471855874977098

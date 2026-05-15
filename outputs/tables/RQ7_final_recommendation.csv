@@ -1,0 +1,4 @@
+Item,Value
+Recommended Model,Linear Regression
+Highest Holdout Accuracy Model,Linear Regression
+Recommendation,"Use the recommended model for planning because it balances accuracy, reliability, interpretability, runtime, and deployment suitability."

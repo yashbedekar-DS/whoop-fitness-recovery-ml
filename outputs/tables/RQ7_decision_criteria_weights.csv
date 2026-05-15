@@ -1,0 +1,6 @@
+Criterion,Weight
+Accuracy,0.35
+Reliability,0.2
+Interpretability,0.2
+Deployment suitability,0.15
+Computational efficiency,0.1
